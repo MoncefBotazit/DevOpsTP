@@ -1,7 +1,7 @@
  Le volume dans le lecteur C n'a pas de nom.
- Le num‚ro de s‚rie du volume est 7CDF-A59F
+ Le numâ€šro de sâ€šrie du volume est 7CDF-A59F
 
- R‚pertoire de C:\Users\hhhh\Desktop\bt
+ Râ€špertoire de C:\Users\hhhh\Desktop\bt
 
 17/03/2024  21:42    <DIR>          .
 17/03/2024  21:42    <DIR>          ..
@@ -10,5 +10,7 @@
 17/03/2024  21:31               461 f2.txt
 17/03/2024  21:31               505 f3.txt
 17/03/2024  21:31               373 fichier1.txt
-               5 fichier(s)            1ÿ772 octets
-               2 R‚p(s)   4ÿ124ÿ229ÿ632 octets libres
+               5 fichier(s)            1Ã¿772 octets
+               2 Râ€šp(s)   4Ã¿124Ã¿229Ã¿632 octets libres
+
+Moncef BOTAZIT
