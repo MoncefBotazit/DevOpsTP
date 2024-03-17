@@ -1,0 +1,17 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 7CDF-A59F
+
+ R‚pertoire de C:\Users\hhhh\Desktop\bt
+
+17/03/2024  21:52    <DIR>          .
+17/03/2024  21:52    <DIR>          ..
+17/03/2024  21:52                 0 BOTA.txt
+17/03/2024  21:47                12 dev1.txt
+17/03/2024  21:32               433 f1.txt
+17/03/2024  21:51               580 f10.txt
+17/03/2024  21:46                18 f11.txt
+17/03/2024  21:31               461 f2.txt
+17/03/2024  21:47               505 f3.txt
+17/03/2024  21:47               373 fichier1.txt
+               8 fichier(s)            2ÿ382 octets
+               2 R‚p(s)   4ÿ119ÿ461ÿ888 octets libres
